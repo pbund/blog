@@ -1,4 +1,4 @@
-baseURL = "https://pbund.github.io/blog/"
+baseURL = "https://pbund.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 [params]
