@@ -1,5 +1,5 @@
 baseURL = "https://pbund.github.io/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Hugo Site"
 [params]
 name = "Paul Bundschuh"
